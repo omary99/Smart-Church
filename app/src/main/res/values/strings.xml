@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Smart Church</string>
+    <string name="connects">CONNECTS</string>
+    <string name="livestream">LIVESTREAM</string>
+    <string name="life_group">LIFE GROUP</string>
+    <string name="sermons">SERMONS</string>
+    <string name="give">GIVE</string>
+    <string name="about_us">ABOUT US</string>
+    <string name="invite_friends">INVITE FRIENDS</string>
+    <string name="prayer_request">PRAYER REQUEST</string>
+    <string name="facebook">FACEBOOK</string>
+    <string name="right_way_christian_church_center">Right Way, Christian Church Center</string>
+    <string name="resources">RESOURCES</string>
+    <string name="events">EVENTS</string>
+    <string name="contact_us">CONTACT US</string>
+</resources>
